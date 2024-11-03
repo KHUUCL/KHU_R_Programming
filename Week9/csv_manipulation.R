@@ -7,6 +7,8 @@ library(ggplot2)
 # Get current working directory
 getwd()
 
+print('change r code test')
+
 # Set working directory to use relative path
 # Replace the path below with your local path
 setwd('/Users/jparkgeo/Documents/GitHub/KHU_R_Programming/Week9')
